@@ -1,0 +1,6 @@
+id,nama lokasi,latitude, longitude,alamat,kontak,operasional,layanan,name
+1,Univ.Stikubank,-6.9882655019010524, 110.41692262611566,Jl.Tri Lomba Juang,0244841976,PMB,senin-jumat 07.00-21.00,unisbank.jpg
+2,Univ.Diponegoro,-7.051717598327234, 110.44087013960852,Jl.Prof. Sudarto No 13 Tembalang Kota Semarang,0247465403,PMB,Senin-Jumat 07.30-21.00,undip.jpg
+3,Univ.Negeri Semarang,-7.041058257321459, 110.3921089117651,Jl.Sekaran Kec. Gn. Pati Kota Semarang Jawa Tengah,0248508093,PMB,senin-jumat 07.00-16.00,unnes.jpg
+4,Univ.Islam Negeri Walisongo,-6.9869136167866035, 110.35932024232837,Jl.Walisongo No.3-5 Tambakaji Kec.Ngalian Kota Semarang,(024) 7604554,PMB,senin-jumat 08.00-16.00,uin.jpg
+5,Univ.Semarang,-6.9819156094665145, 110.4522069972797,Jl.Soekarno Hatta Rt07/Rw07 Tlogosari Kulon Kec.Pedurungan Kota Semarang,(024) 6702757,PMB,senin-minggu 08.00-18.00,USM.jpg
